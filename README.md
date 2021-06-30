@@ -1,4 +1,4 @@
-# text-summarization
+# Experiments on Text Summarization - SOTA Transformers
 
 This is a quick experiment to test extractive and abstractive text summarization with the SOTA Transformer based pre-trained models of Google T5, Google Pegasus, Facebook BART CNN.
 
