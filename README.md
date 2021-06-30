@@ -8,4 +8,4 @@ Outputs of summaries are available in the Jupyter Notebook and /data/summary*.tx
 
 Files named /data/extract*.txt are full text extracts from the PDF sources.
 
-These experiments were run on GCP, with tensorflow 2.3.3 and Pytorch 1.4.0.
+These experiments were run on GCP (without GPU), with tensorflow 2.3.3 and Pytorch 1.4.0.
