@@ -9,13 +9,13 @@ This is a quick experiment to test **extractive** and **abstractive** text summa
 
 ## Input/Output Files
 Data Sources used as input include publicly available PDFs in the data folder 
- - */data/Accenture*.pdf*,  
- - */data/BSR*.pdf*
+ - */data/Accenture\*.pdf*,  
+ - */data/BSR\*.pdf*
 
 Outputs of summaries are available in 
 
  - the Jupyter Notebook  
- - */data/summary*.txt*
+ - */data/summary\*.txt*
 
 Files named */data/extract*.txt* are full text extracts from the PDF sources.
 
