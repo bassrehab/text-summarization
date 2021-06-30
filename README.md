@@ -1,7 +1,11 @@
 
 # Experiments on Text Summarization - SOTA Transformers
 
-This is a quick experiment to test **extractive** and **abstractive** text summarisation with the SOTA Transformer based pre-trained models of **Google T5, Google Pegasus, Facebook BART CNN.**
+This is a quick experiment to test **extractive** and **abstractive** text summarisation with the SOTA Transformer based pre-trained models of 
+
+ - [Google T5](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) ,  
+ - [Google Pegasus](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html),  
+ - [Facebook BART CNN](https://ai.facebook.com/research/publications/bart-denoising-sequence-to-sequence-pre-training-for-natural-language-generation-translation-and-comprehension/)
 
 ## Input/Output Files
 Data Sources used as input include publicly available PDFs in the data folder 
