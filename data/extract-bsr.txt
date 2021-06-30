@@ -1,0 +1,2749 @@
+March 2018
+www.herproject.org
+Financial Inclusion 
+for Women
+Expanding Mobile Financial Servicesin India™s Garment Sector
+Research Report
+About this Report
+This report examines the opportunity to expand ˜nancial inclusion for women in India™s garment sector by increasing 
+women™s use of mobile ˜nancial products and services. We believe that by increasing women™s access and their use of 
+
+˜nancial products and services, it will be possible to ful˜ll the promise of ˜nancial inclusion to advance gender equality  
+
+and women™s empowerment, improve livelihoods, and spur economic growth. 
+Our research indicates that mobile ˜nancial services provide several bene˜ts that can increase women™s use of formal 
+˜nancial services. Some of these bene˜ts are convenience, safety, privacy, and access to more sophisticated services. 
+
+But to realize these opportunities, women need to be connected to these products and services and trained on how to 
+
+use them. Furthermore, companies must develop products and services that suit women™s needs speci˜cally.
+There are two main goals of this report: To highlight the barriers and opportunities to increasing ˜nancial inclusion of 
+women in India™s garment sector, and to encourage key stakeholders to pursue activities that will increase women™s use  
+
+of mobile ˜nancial services.
+To meet these objectives, the report is divided into four main sections:
+This report is based on a combination of desk-based literature review, and qualitative research sessions conducted in 
+India by members of the HERproject team. The report was written by Chhavi Ghuliani and Lucia Flores Guevara, with 
+
+additional inputs from Filippo Sebastio, Eva Dienel, Kritika Sharma, and Christine Svarer. Any errors remain those of the 
+
+authors. Comments may be directed to Chhavi Ghuliani  at cghuliani@bsr.org.
+Expanding Financial Inclusion of Women in India™s Garment Sector.
+ This 
+
+section illustrates why India™s garment sector presents a prime opportunity to 
+
+invest in  and test programs that use mobile ˜nancial services and products to 
+
+close the gender gap in ˜nancial inclusion.
+INTRODUCTION:
+01Insights on Women™s Use of Mobile Financial Services in India™s Garment 
+
+Factories.
+ This section provides insights on the drivers of and barriers to 
+women™s use of mobile ˜nancial products and services based on BSR™s research 
+
+in the Indian garment sector. It also includes an analysis of India™s mobile ˜nancial 
+
+services market today based on the market™s potential to meet women™s needs. 
+02DRIVERS, 
+
+BARRIERS, 
+and
+ OPPORTUNITIES:
+This section outlines recommendations for three major stakeholder groupsŠ
+
+brands and factories; ˜nancial service providers; and donors, NGOs and ˜nancial 
+
+inclusion expertsŠto support women™s increased use of mobile ˜nancial services 
+
+in India™s garment sector. 
+03RECOMMENDATIONS:
+This section examines the opportunities for BSR™s HERproject to leverage the 
+
+HER˜nance initiative and address the challenges women workers face in actively 
+
+using ˜nancial services. 
+04
+IMPLICATIONS 
+of 
+OUR RESEARCH 
+for
+ HERFINANCE:
+Acknowledgments
+ BSR would like to thank the following individuals for 
+contributing their time, expertise, and resources used in 
+
+this research:
+Lynn Eisenhart, Pawan Bakshi, and Daniel Radcliffe of the 
+Bill & Melinda Gates Foundation; Joyce Kam and Pamela 
+
+Mar, Li & Fung; Meghna Talwar, Williams-Sonoma Inc.; 
+
+Adrian Sherman and Raja Ganesh, The Children™s Place; 
+
+and Marianna Tsien, ANN Inc.
+BSR would also like to thank the various participants of 
+the research sessions. Speci˜cally, the women and men 
+
+garment workers who shared their stories with us, and 
+
+the management teams of the garment factories who 
+
+gave us hospitality and honest feedback. The names of 
+
+the individuals who and businesses which participated 
+
+in the research are not being disclosed in this report for 
+
+con˜dentiality reasons.
+Disclaimer
+BSR publishes occasional papers as contributions to 
+
+the understanding of the role of business in society and 
+
+the trends related to corporate social responsibility and 
+
+responsible business practices. BSR maintains a policy 
+
+of not acting as a representative of its membership, nor 
+
+does it endorse speci˜c policies or standards. The views 
+
+expressed in this publication are those of its authors and 
+
+do not re˚ect those of BSR members.
+
+ Suggested citation
+Ghuliani, Chhavi and Lucia Flores Guevara. 2017. 
+
+ﬁFinancial Inclusion for Women: Expanding Mobile 
+
+Financial Services in India™s Garment Sector.ﬂ BSR.
+Table of Contents
+How India™s Regulations Support Financial Inclusion.......................................................................................7
+Why Mobile Matters for Financial Inclusion.........................................................................................................9
+
+The Garment Sector™s Potential to Advance Financial Inclusion...................................................................10
+Introduction
+6Expanding Financial Inclusion of Women in India™s Garment Sector
+Appendix
+.........................................................................................................................................................................30
+About this Research ...............................................................................................................................................2
+
+Our Findings: The Promise of Mobile and the Barriers to Overcome ..........................................................4
+
+Recommendations to Leverage Mobile Phones to Increase Women™s Financial Inclusion.....................5
+Executive Summary
+1Drivers Enabling Women™s Use of Mobile Financial Services........................................................................13
+
+Barriers to Women™s Use of Mobile Financial Services...................................................................................15
+
+Mobile Financial Services through a Gender Lens..........................................................................................18
+Drivers, Barriers, and Opportunities
+Insights on Women™s Use of Mobile Financial Services in India™s Garment Factories
+12Recommendations for Mobile Financial Service Providers.............................................................................25
+
+Recommendations for Brands and Factories....................................................................................................26
+
+Recommendations for Donors, NGOs, and Financial Inclusion Experts.....................................................27
+Recommendations
+23Implications of Research for HER˜nance
+28Financial Inclusion for Women
+ I Executive Summary I 
+1Around the world, there has been great progress when it 
+comes to ˜nancial inclusion. Between 2011 and 2014, the 
+
+number of people who own an account at a ˜nancial institution 
+
+grew by 700 million, and the percentage of adults who own 
+an account grew to 62 percent from 51 percent.
+1 The 2014 
+Global Findex database de˜nes account ownership as having 
+an account either at a ˜nancial institution or through a mobile 
+money provider.
+2 An account at a ˜nancial institution can be an 
+account at a bank or another type of ˜nancial institution, such 
+as a credit union, cooperative, or micro˜nance institution. On 
+
+the other hand, mobile money providers offer accounts that can 
+
+be accessed through a mobile phone and used to save, pay 
+
+bills, or send or receive money. 
+Despite these gains, more than 2 billion adults still do not use 
+formal ˜nancial services such as deposit and savings accounts, 
+payment services, loans, and insurance.
+3 The majority of the 
+people who don™t have access to formal ˜nancial services live in 
+the developing world, and women represent a disproportionate 
+
+percentage of these people. In developing economies, 59 
+
+percent of men reported having an account in 2014, compared 
+
+to only 50 percent of women. The gender gap is largest in 
+
+South Asia, where the difference in account ownerships 
+between men and women is 18 percentage points.
+4 Recent studies underscore the important role ˜nancial inclusion 
+plays in reducing income inequality, improving livelihoods, and 
+spurring economic growth.
+5  Sustainable Development Goals 
+(SDGs) 1 (target 4) and 5 (target 7) explicitly call for equal 
+access to ˜nancial services as a building block to end poverty 
+and achieve gender equality.
+6 For women, ˜nancial inclusion 
+can lead to greater ˜nancial independence and control over 
+˜nancial resources, giving them more bargaining power at 
+
+home and in˚uence over family decisions. Moreover, because 
+
+women typically invest 90 percent of economic resources into 
+
+health, nutrition, and family education, the ˜nancial inclusion of 
+women contributes to long-term prosperity for communities.
+7  Unfortunately, while more women are gaining access to formal 
+˜nancial servicesŠin the form of account ownershipŠthese 
+
+same women are not using these services as much as they 
+
+could be. In India, 58 percent of women owned at least one 
+
+bank account as of 2015, but only 35 percent of these women 
+were using that account, compared to 49 percent of men.
+8 In order for ˜nancial inclusion to achieve its promise, women 
+need more than just access to ˜nancial products and services, 
+
+they need to use these services actively and have a say in the 
+
+decision-making process when it comes to ˜nancial decisions 
+
+in the household overall.
+Executive Summary
+The 
+gender gap
+in account ownership
+was 
+18%
+ points in
+South AsiaŠ
+the largest
+in the world.
+2014
+2011-2014
+2015
+The number of people
+who owned an account at a
+˜nancial institution 
+grew by 
+700 million 
+globally
+.In India, 
+58% of women 
+owned at least one bank 
+account, but
+ only
+35% of these women
+were using that account.
+Financial Inclusion for Women
+ I Executive Summary I 
+2For 10 years, BSR™s HERproject has led programs aimed at unlocking the full potential of women working in global supply 
+chains through workplace programs promoting health, ˜nancial inclusion, and gender equality. 
+Recently, our HER˜nance initiativeŠa program dedicated to understanding and closing the gender gap in ˜nancial 
+inclusionŠpartnered with the Bill & Melinda Gates Foundation on research to explore one question: What strategies and 
+
+programs will be most effective in increasing women™s use of formal ˜nancial services?
+To answer this question, we examined the opportunity to increase women™s use of formal ˜nancial services in India™s 
+garment sector. We focused on India and its garment sector for three key reasons:
+ABOUT THIS RESEARCH
+123India has the world™s largest 
+
+number of ˜nancially excluded 
+
+women.
+ Roughly 280 million 
+women in India don™t have 
+
+access to formal ˜nancial 
+
+services, which means that one 
+
+out of four ˜nancially excluded 
+
+women across the world is 
+Indian.
+9 While 60 percent of 
+Indian women have at least one 
+bank account, only 40 percent 
+
+of women actively use a ˜nancial 
+services account of any kind.
+10
+India has created policies to 
+support ˜nancial inclusion.
+ India™s government and central 
+
+bank have made ˜nancial 
+
+inclusion a national priority, 
+
+and the country™s new policies 
+
+and programs increased bank 
+
+account ownership by 11 percent 
+between 2014 and 2015.
+11India™s garment sector presents 
+an opportunity to reach a 
+
+large number of low-income 
+
+women.
+ The garment and 
+textiles industry is India™s second-
+
+largest employer, and women 
+
+comprise the majority of the 
+
+workforce in this sector. Based 
+
+on our research, most of the 
+
+women formally employed are 
+
+paid electronically into their bank 
+
+accounts, but they nonetheless 
+
+withdraw salaries on payday and 
+
+revert to making most ˜nancial 
+
+transactions in cash.
+The fact that these female garment workers still use 
+cash for ˜nancial transactions illustrates one of the main 
+
+challenges in achieving true ˜nancial inclusion: While most 
+
+of them now have access to bank accounts, their actual 
+
+use of ˜nancial services remains low. To ful˜ll the promise 
+
+of ˜nancial inclusion in India, women must not only 
+
+have access, they must use the wide range of ˜nancial 
+
+products and services that are available to them.
+There are two main objectives of this report: to highlight 
+
+the barriers and opportunities to increasing ˜nancial 
+
+inclusion of women in India™s garment sector, and to 
+
+encourage key stakeholders to pursue activities that will 
+
+increase the use of mobile ˜nancial services among these 
+
+women. We are planning further research to test the 
+
+˜ndings of this scoping study, and we welcome feedback 
+
+from the wider community focused on closing the gender 
+
+gap in ˜nancial inclusion.
+Financial Inclusion for Women
+ I Executive Summary I 
+4For our research, we conducted qualitative interviews and focus 
+group discussions with garment workers and factory managers, 
+
+merchants, ˜nancial services providers, and other experts. 
+
+We also engaged in a literature review of industry trends and 
+
+government policies.
+While the scope of our research was narrow, we believe mobile 
+holds promise in closing the ˜nancial inclusion gender gap.
+
+In India™s garment sector, there is unique potential to increase
+
+women workers™ use of ˜nancial services by providing 
+
+awareness and education programs about these services,    
+
+and creating products tailored to meet their needs.
+ Mobile ˜nancial services are provided by banks or other ˜nancial 
+institutions that allow customers to conduct ˜nancial transactions 
+
+remotely using a˛mobile device such as a cellular phone, 
+
+smartphone, or a tablet.
+For female garment workers, mobile ˜nancial services offer a safe 
+and convenient alternative to traditional banks. Mobile also opens 
+
+the door for women to try more sophisticated services such as 
+
+insurance and credit.
+Our research indicated that several trends are creating an 
+enabling environment for women™s use of mobile ˜nancial services 
+
+in India™s garment sector. Some of these trends include near-
+
+universal access to formal bank accounts and mobile phones, and 
+
+the rise of India™s new Payments Banks, which are newly created 
+
+˜nancial institutions that are targeted at India™s underbanked 
+
+population. Payments Banks rely on mobile channels and on a 
+
+network of agents and ATMs to accept deposits; offer remittance 
+
+services, mobile payments and purchases, debit cards; and other 
+
+basic banking services.˛Despite this environment, usage of mobile 
+
+˜nancial services among women remains low because barriers 
+
+exist due to a range of cultural, social, and market barriers. 
+
+Among these barriers are gender norms that result in women 
+
+being less likely to use smartphones than men, and more likely to 
+
+lack awareness of mobile ˜nancial services. Women also are less 
+
+likely to have access to education than men, which makes it more 
+
+dif˜cult for them to engage with and adopt new technologies as 
+
+quickly. Additionally, many women and men shared with us that it 
+
+is considered a man™s responsibility to manage ˜nances. 
+We also learned that India™s current mobile productsŠand the 
+ecosystem supporting mobile in generalŠare not meeting the 
+
+speci˜c needs of female garment workers fully. Most women 
+
+still make payments in cash because so few schools, utility 
+
+companies, and other merchants they use regularly offer 
+
+digital payment options. In addition, many women are not yet 
+
+comfortable using these products and services, and require 
+
+support from mobile ˜nancial services providers to help them 
+
+open accounts, make deposits, send remittances, and withdraw 
+
+cash. Women might be more inclined to use these products if 
+
+providers introduced options that met their needs more effectively 
+
+and were easier to use.
+OUR FINDINGS:
+The promise of mobile and the barriers to overcome
+Financial Inclusion for Women
+ I Executive Summary I 
+5123Financial services offered through mobile channels, such as basic phones and smartphones, hold promise to 
+increase women™s use of ˜nancial services by offering accessibility, security, and convenience. To realize the full 
+
+potential of this niche, providers must develop relevant products that meet women™s needs, and women have 
+
+to be introduced to such products and services and trained on how to use them. 
+This report outlines actions that three different stakeholder groups can pursue to support the uptake of mobile 
+˜nancial services among women workers in India™s garment sector:
+RECOMMENDATIONS:
+To leverage mobile phones to increase women™s 
+˜nancial inclusion
+Donors, experts, and NGOs 
+
+should work together to 
+
+leverage their knowledge 
+
+of the needs of women, 
+
+intra-household patterns, 
+
+barriers, and opportunities. 
+
+Collaboration also can 
+
+help devising solutions to 
+
+overcome non-˜nancial 
+
+barriers such as social 
+
+norms. In addition, these 
+
+groups can commission 
+
+in-depth research focused 
+
+on the ˜nancial inclusion 
+
+of garment workers, and 
+
+women speci˜cally, both 
+
+to prove our conclusions 
+
+in this report, and to 
+
+develop robust evidence 
+
+for strategies and programs 
+
+that can be implemented 
+
+by the government, the 
+
+private sector, and other 
+
+stakeholders on a large 
+
+scale.
+As employers of a signi˜cant 
+
+number of women, apparel 
+
+brands and factories can 
+
+offer an access point to 
+
+connect low-income women 
+
+to mobile ˜nancial products 
+
+and services. They also 
+
+can provide the space for 
+
+training women. 
+Financial services providers 
+
+can work on merchant 
+
+acquisition to digitize the 
+
+payment streams women 
+
+use, develop products that 
+
+meet women™s speci˜c 
+
+needs, and provide them 
+
+with necessary training to 
+
+feel comfortable with and 
+
+use mobile ˜nancial services.
+Financial Services Providers
+Apparel Brands and Factories
+Donors, Experts, and NGOs
+In India, 
+only six in 10
+ women have a savings account in their own 
+names. That means there are an estimated 
+280 million unbanked
+ 
+women. Some might say this makes India the world™s capital when it 
+
+comes to ˜nancially excluded women.
+12 
+Despite these ˜gures, India™s recent changes in regulations and 
+
+policy are addressing many of the barriers low-income women face in 
+
+accessing and using mobile ˜nancial services. These changes also are 
+
+supporting a move to mobile ˜nancial services, which has the potential 
+
+to increase women™s use of ˜nancial products because mobile offers 
+
+more convenience, safety, and privacy, and it can open the door for 
+
+women to access more sophisticated products and services.
+ INTRODUCTION :
+Expanding Financial 
+Inclusion of Women in 
+
+India™s Garment Sector
+Financial Inclusion for Women
+ I Introduction I 
+7In recent years, India™s government and its central bank have made ˜nancial inclusion a national priority 
+and have implemented a number of policy and regulatory changes to support universal ˜nancial inclusion. 
+
+Changes span a gamut of issues:
+HOW INDIA™S REGULATIONS SUPPORT 
+
+FINANCIAL INCLUSION
+Basic Savings Accounts.
+ With an aim to provide a bank account to every 
+
+household, India™s national ˜nancial inclusion strategy, Pradhan Mantri Jan-Dhan 
+
+Yojana (PMJDY), has reduced documentation requirements for people to access 
+
+basic banking services such as credit, insurance, and pension facilities. This 
+
+change also enabled people to receive government bene˜ts directly into their 
+
+accounts. Since the 2014 launch, about 290 million˛accounts have been opened 
+under the PMJDY program,
+13 covering more than˛99 percent of households.
+14 Biometric Identi˜cation.
+ Without formal ID, many Indians struggled to open a bank 
+account. In response, the government launched Aadhaar, the national biometric 
+identi˜cation system that provides every Indian citizen with a unique identi˜cation 
+
+number linked to their ˜ngerprints and retinal scan. Aadhar has the potential to 
+
+accelerate the ˜nancial inclusion of low income populations with no formal ID since 
+
+it can be used instead of paper documentation.
+Payments Banks.
+ In 2015, the Reserve Bank of India approved the creation of 
+Payments Banks, which are branchless institutions that provide basic banking 
+services
+15 through a combination of digital channels and a network of agents 
+that extend bank services to communities and homes. These banks are primarily 
+intended to reach low-income and underserved customers. 
+The ﬁLess Cashﬂ Economy.
+ In 2016, India™s prime minister announced the 
+demonetization of 86 percent of the cash in circulation.
+16 That same year, employers 
+were allowed to pay workers digitally without asking for prior written authorization. 
+As a result, cash has been nearly eliminated from factory payrolls and workers are
+
+now paid directly in a bank account. This is helping accelerate the uptake of mobile 
+
+˜nancial services in one of the world™s most cash-reliant economies. 
+``Financial Inclusion for Women
+ I Introduction I 
+8The effect of these changes has been mixed. On one hand, bank account 
+ownership increased to 63 percent from 52 percent of all adults between 
+
+2014 and 2015, and the proportion of Indian women with individual accounts 
+
+in formal ˜nancial institutions reached 61 percent in 2015, an increase from 
+48 percent in 2014.
+17 Unfortunately, there is a gender gap in account usage 
+as Indian women still lag behind by eight percentage points in account 
+ownership, and fewer than four out of 10 Indian women actively use their 
+bank accounts.
+18 Adding insult to injury, just a year after demonetization, 99 
+percent of the banned high value notes were returned to the banking system, 
+
+and cash use rose to the levels they were at before demonetization.
+19These outcomes could be attributed to the fact that government initiatives 
+to encourage cashless payments did not incorporate ˜nancial education, 
+
+the targets for opening bank accounts were set for households instead of 
+individual accounts for women, and that current policies are gender-neutral.
+20 Coupled to that, Indian adults lack awareness of mobile money, have low 
+SIM-card ownership, and don™t have strong incentives to use cashless modes 
+of payments since most merchants don™t accept them.
+21 To achieve true 
+˜nancial inclusion of women, efforts must move beyond access-oriented 
+measures to focus on actual usage of ˜nancial products and services by the 
+
+underbanked women to whom they are supposed to cater. Our research 
+
+indicates that a combination of awareness and training, efforts to increase 
+
+merchant acceptance, and the introduction of new products that meet 
+
+women worker™s needs better meet advance women™s use of mobile ˜nancial 
+
+products as well. 
+Financial Inclusion for Women
+ I Introduction I 
+9While digital ˜nancial services can be offered in many formsŠincluding ATMs, point-of-sale terminals, and debit cardsŠ
+mobile ˜nancial services, the ˜nancial services offered through a mobile phone, deliver several bene˜ts that could make 
+
+adoption more widespread among female garment workers in India: 
+WHY MOBILE MATTERS FOR FINANCIAL INCLUSION
+Convenience.
+Mobile ˜nancial services eliminate the challenges 
+women face in ˜nding time and transportation to 
+
+access traditional brick-and-mortar banks.
+Safety.
+Using mobile at home can remove the need for women 
+to travel to and from the bank. Using mobile also 
+
+reduces the risks women face in traveling with cash.
+Privacy.
+Mobile transfers can allow for greater privacy and control 
+than cash. This additional control could help women 
+
+gain more decision-making power in the household.
+Access.
+Access to more sophisticated services. Mobile ˜nancial 
+products such as mobile payments can make banking 
+
+easier because of their greater accessibility, mobile 
+
+payments present greater scaling potential among 
+low-income population than traditional banking.
+22 As these women become more comfortable using 
+mobile payments, they may be more likely to try more 
+
+sophisticated ˜nancial products and services such as 
+
+insurance and credit.
+With 616 million unique mobile subscribers, India is the 
+second-largest mobile market in the world.
+23
+ The overall 
+penetration rate of mobile phones in India for unique 
+subscribers is expected to grow to 68 percent by 2020 
+from around 50 percent today.
+24 It is worth noting this 
+data encompasses both women and men, and that 
+the numbers are not restricted to the number of people 
+
+who own a mobile phone, but rather to the number of 
+
+people who are subscribed to a mobile service.  However 
+
+you look at the data, phone ownership and use have 
+
+increased dramatically in the past two years: In 2015,  
+184 million Indians had a feature phone;
+25 today, around 
+500 million have one.
+26India is also the world™s fastest-growing smartphone 
+market: In 2016, 275 million Indians had a smartphone, 
+
+and that number is expected to grow to 688 million by 
+2020.
+27 Mobile has become the dominant platform for 
+internet access in India, and 4G is forecast to grow to 
+280 million by 2020 from a connection base of 3 million 
+
+at the end of 2015. 
+For all these reasons, we can expect ˜nancial services 
+
+offered through mobile channels to become increasingly 
+
+popular among women. However, in India the gender 
+
+gap in mobile phone ownership is 36 percent, which 
+
+translates into around 114 million fewer women than 
+men who own mobile phones.
+28  Therefore, to realize 
+the potential of mobile ˜nancial services, women need 
+to be trained on how to use them, and products and 
+
+services must be tailored to meet their needs. There™s 
+
+also a need for the ˜nancial inclusion community and 
+
+government initiatives to focus more on getting women 
+
+to use their accounts. For example, a signi˜cant number 
+
+of the accounts opened under the PMJDY program 
+remain dormant.
+29 We believe investments to build out 
+the mobile ecosystem, by allowing women to use mobile 
+˜nancial services in their communities, will enable greater 
+
+use of accounts and will help women ﬁgraduateﬂ to more 
+
+advanced ˜nancial services. 
+Financial Inclusion for Women
+ I Introduction I 
+10Given the importance of the garment sector to the Indian 
+economy and considering it employs mostly women and 
+
+pays them through deposits into formal bank accounts, 
+
+India™s garment sector has a prime opportunity to expand 
+
+the use of ˜nancial services among millions of women 
+
+workers.
+After agriculture, the garment and textiles industry is 
+India™s second-largest employer, directly employing more 
+than 48 million women and men,
+30
+ and contributing 
+to about 19 percent of the industrial workforce and 
+
+5.2 percent of India™s GDP.
+31 Within that industry, the 
+readymade garment sector employs 12 million workers,
+32 
+mainly in urban and semi-urban clusters where workers 
+
+are mostly in the 20Œ40 age group.
+33 It also offers more 
+THE GARMENT SECTOR™S POTENTIAL TO ADVANCE 
+FINANCIAL INCLUSION
+formal employment opportunities. The largest garment 
+
+manufacturing centers are in Bengaluru (Karnataka), 
+
+Tirupur and Chennai (Tamil Nadu), and the National 
+
+Capital Region (NCR).
+Nationwide, female participation in the garment and 
+textiles industry is approximately 60 percent,
+34 excluding 
+home workers employed on embellishment, embroidery, 
+and other skilled jobs. In the north, the industry employs 
+
+mostly men, whereas the southern hubs of Karnataka 
+
+and Tamil Nadu employ a majority of women. For many 
+
+of these women, garment factory work is a unique 
+
+opportunity to earn formal, salaried wages and contribute 
+to the ˜nancial well-being of their households.
+35We are focusing on the Indian garment sector to expand the use of mobile ˜nancial services among millions of women 
+workers for the following reasons: 
+
+  »The garment sector allows us to reach a large number of low-income women:
+ Women comprise the majority 
+of the workforce in this industry. Many garment factories are located in a small geographic areas and women 
+
+convene in these workplaces for eight to 10 hours a day every week. This level of aggregation offers the potential 
+
+to promote the ˜nancial inclusion of a large number of women in a cost-effective way.
+ »Women formally employed in the Indian garment sector already have access to ˜nancial services and 
+
+products but usage of such products remains low:
+ Despite the fact that women garment workers are being 
+
+paid through digital deposits into bank accounts, they continue to conduct mostly informal transactions and 
+
+are not bene˜ting from the ˜nancial products available to them fully. The garment industry is a good platform 
+
+to design and pilot products that can appeal to low income women employed in other industries and, more 
+
+generally, to women with a similar household income.
+ »BSR has deep expertise implementing HERproject in the garment sector:
+ For the last 10 years BSR™s 
+
+HERproject has worked with more than 50 international companies and 600 suppliers to reach more than 
+
+700,000 women. Most of this work has been in the garment industry, and our deep knowledge and expertise 
+
+in this sector enables 
+us to collaborate with service providers to ensure they meet the unmet needs of women 
+workers.
+For all these reasons, India™s garment sector has a prime opportunity to expand the use of mobile ˜nancial services 
+
+among millions of women workers.
+Financial Inclusion for Women
+ I Introduction I 
+11An initiative of the BSR HERproject, HER˜nance aims to leverage workplace programs promoting 
+˜nancial inclusion to unlock the full potential of women working in global supply chains around the 
+
+world. The goals of HER˜nance are: (1) To ensure the poorŠparticularly womenŠhave the proper 
+
+knowledge of, skills for, and attitudes about ˜nancial services; and (2) to provide access to useful 
+
+and affordable ˜nancial products and services to enable these women to participate in the formal 
+
+˜nancial sector.
+In 2015, HER˜nance partnered with the Bill & Melinda Gates Foundation to deepen the ˜nancial 
+inclusion of women in readymade garment factories in India and Bangladesh. We chose these 
+
+countries because HER˜nance has a well-established brand network in India and Bangladesh. There 
+also is a signi˜cant gender gap in ˜nancial inclusion in South Asia,
+36 giving us another opportunity to 
+analyze the challenges and identify possible solutions there.
+In Bangladesh, we are working directly with garment factories to support their transition from cash to 
+digital payrolls, allowing workers to receive their wages instantly and transparently into formal bank 
+
+accounts
+ . In India our research took a different focus because garment workers already receive their 
+wages through a digital system. There, we focused on understanding the main barriers to active use 
+
+of ˜nancial services among women workers, and how mobile ˜nancial services can help address 
+
+these challenges and encourage more advanced use of ˜nancial services among women over time.
+Our research in India also is helping us re˜ne the HER˜nance program, and we are sharing it more 
+broadly through this paper because we believe our ˜ndings will be insightful for ˜nancial service 
+
+providers, factories and brands, donors, NGOs, and technical experts working to close the ˜nancial 
+
+inclusion gender gap. 
+This report reveals our ˜ndings to date, including the barriers and opportunities to increase the use 
+of mobile ˜nancial services among female garment workers, and how key stakeholders can support 
+
+women™s use of mobile and thus advance ˜nancial inclusion among women in India™s garment sector.
+ABOUT THE BSR HERFINANCE PROGRAM AND THIS RESEARCH
+Through our research, we learned that increasing access to formal 
+bank accounts and ownership of mobile phones, as well as the 
+
+rise of Payments Banks, can drive women™s use of mobile ˜nancial 
+
+services in India™s garment factories. At the same time, barriers exist: 
+
+Smartphone ownership among women is low, many women lack 
+
+awareness of mobile ˜nancial services, and other factors such as low 
+
+literacy levels and social and gender norms are preventing women 
+
+from using these services.
+In this section, we look at the drivers and barriers to women™s use 
+of mobile ˜nancial products and services, and the supply of the 
+
+products and services in India™s market today. We also analyze the 
+
+potential of these products and services in meeting women™s needs.
+DRIVERS, BARRIERS, AND OPPORTUNITIES:
+Insights on Women™s Use 
+of Mobile Financial Services 
+
+in India™s Garment Factories
+Financial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+13Among the women we interviewed, use of mobile ˜nancial services was low when compared with male 
+workers™. We asked women respondents how mobile ˜nancial services could help them overcome some of 
+
+the challenges they experience using traditional ˜nancial services. Based on our research, we believe that 
+
+by understanding these opportunities and advancing their potential, mobile ˜nancial services providers can 
+
+develop products that cater to the needs of women workers. In this section, we outline some of the factors 
+
+that could drive women worker™s use of mobile ˜nancial services.
+DRIVERS TO INCREASE WOMEN™S USE OF 
+
+MOBILE FINANCIAL SERVICES
+Time savings and convenience. 
+Using cash can be 
+
+inconvenient and time-consuming. In addition to working 
+
+six days a week in factories, women shoulder most of 
+
+the responsibility for unpaid work with family and at 
+home.
+37 
+The women we interviewed reported waiting in 
+long lines to withdraw money from ATMs and pay bills, 
+and they expressed frustration with bank branches being 
+
+closed on SundaysŠtheir only day off. Given the banks™ 
+
+limited opening hours, many women said they were 
+
+forced to take unpaid leave to visit their bank branches 
+
+to make certain transactions.
+As an alternative, many women told us they give their 
+personal identi˜cation codes to male family members 
+
+to withdraw money for them. This practice leaves the 
+
+women with less control over their ˜nances. It also 
+
+presents privacy issues.
+The bottom line: Between work and family obligations, 
+women have very little free time. Some refer to 
+
+this phenomenon as ﬁtime poverty,ﬂ and it is a real 
+
+problem for women in India. Jyoti, a female garment 
+
+worker in northern India, told us she is so busy with 
+
+her responsibilities that she has her son or husband 
+
+withdraw money from the ATM on her behalf. ﬁI do not 
+
+have time,ﬂ she said. ﬁSometimes there is no money [in 
+
+the ATM], or, if there is money, there is a long queue in 
+
+front. After going home, I need to cook food and help my 
+
+kids [with the homework].ﬂ
+Mobile ˜nancial services could reduce the challenge of 
+time poverty by giving women the freedom to conduct 
+
+˜nancial transactions when and where it is convenient 
+
+for them. Ranjni, a female garment worker in Tirupur, told 
+
+us that using her banking app to transfer funds takes 
+
+just 10 minutesŠcompared to the six hours it used to 
+
+take her to go to the bank.
+ﬁI do not 
+have time,
+ sometimes there is 
+no money [in the 
+
+ATM], or, if there 
+
+is money, there is 
+
+a long queue in 
+
+front. After going 
+
+home, I need to 
+
+cook food and help 
+
+my kids [with the 
+
+homework].ﬂ
+Jyoti,
+A female garment worker
+from northern India
+Mobility.
+ In India, women face mobility constraints because of their gender. Norms dictate that often women 
+need to be accompanied by a man to go to a bank, or that it is not acceptable for women to travel alone to 
+visit a male agent.
+38 One woman we interviewed said that it was not safe for women to travel alone, while other 
+women said the male heads of their households wouldn™t allow them to do so. This hinders access to banking 
+and mobile ˜nancial services can solve the mobility barrier by allowing women to conduct transactions from 
+their homes.
+39Financial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+14Safety.
+ Workers often ˜nd themselves carrying large 
+sums of cash to make payments or to save at home. This 
+leaves women particularly exposed to the risk of theft or 
+
+loss, and many women mentioned they felt uncomfortable 
+
+carrying money while traveling alone. Raddha, a female 
+
+garment worker from Bengaluru, told us: ﬁIt™s painful [to 
+
+pay school fees]. I have to take leave from work and I am 
+
+worried about carrying cash with me to the school. How 
+
+can I carry so much cash and take a bus to the school?ﬂ 
+
+Mobile ˜nancial services can limit this risk by allowing 
+
+women to conduct cashless transactions to pay for 
+
+services and utilities from their phones.
+ﬁIt™s painful
+           
+[to pay school fees].        
+
+I have to take leave 
+
+from work and I am 
+
+worried about carrying 
+
+cash with me to the 
+
+school. How can I carry 
+
+so much cash and take 
+
+a bus to the school?ﬂ
+Tendency to save.
+ Women respondents told us that when 
+
+they received cash wages, they were more likely to spend 
+
+their money and less likely to save. While direct deposit of 
+wages does increase a women™s tendency to save,
+40
+ this 
+could be further enhanced by enabling women to conduct 
+cashless transactions. This could encourage them to keep 
+
+larger portions of their salaries in their accounts instead of 
+
+cashing out everything on payday. Mobile ˜nancial services 
+
+providers could achieve this by acquiring more local 
+
+merchants to accept cashless payments and by promoting 
+
+mobile accounts that offer interest rates on savings that 
+
+match or exceed what is offered by traditional banks.
+Cost savings.
+ Many garment workers remit money 
+to family members through agents who charge 
+
+commissions. These fees could be avoided if workers 
+
+have mobile money accounts and the capability and 
+
+knowledge to use those accounts to conduct ˜nancial 
+
+transactions on their own. Banupriya, a garment worker 
+
+from Perundurai, said the prospect of saving money by 
+
+not paying an agent fee is an incentive for her to learn how 
+
+to use mobile payments and to adopt this technology. ﬁI 
+
+feel that I could learn it,ﬂ Banupriya told us.
+High rates of access to mobile phone.
+ Perhaps one of 
+the most signi˜cant factors to support women™s use of 
+
+mobile ˜nancial services is the fact that nearly all Indian 
+
+adults have access to a mobile phone, either because 
+
+they own one or because they borrow one from family 
+and friends.
+41 Among the workers who participated in our 
+research, basic phone ownership was universal. While 
+smartphone ownership was limited, they are becoming 
+
+increasingly accessible to individuals on a garment 
+worker™s salary.
+ In fact, in some mobile phone shops 
+we visited, even in less densely populated areas, it was 
+dif˜cult to ˜nd basic phones and the merchants explained 
+
+that this was because the price difference between basic 
+
+phones and smartphones was decreasing dramatically.
+Radha H P,
+ Garment Worker, Bengaluru.
+Financial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+15members who would then conduct ˜nancial transactions. 
+In this scenario, the male heads of households take the 
+
+women™s incomes and give them discretionary allowances 
+
+for food, clothing, and school fees. Rakesh Kumari, a 
+
+garment worker in Delhi, said: ﬁMy husband manages 
+
+everything. I manage the household. I cook food and 
+
+teach my son. I pay other bills, clear rents.ﬂ
+Despite earning their own incomes, Indian women still 
+are less likely than men to make decisions on how those 
+incomes are allocated.
+45 These bargaining inequalities 
+are underpinned by deeply rooted norms about gender 
+
+roles and responsibilities.
+46 Relying on men can further 
+reinforce these gender inequalities, giving women less 
+autonomy over ˜nancial and household decision-making 
+
+and limiting their ability to save. This practice also raises 
+
+privacy issues in cases where women do not want to 
+
+disclose their salaries and savings balances. It also makes 
+
+it more dif˜cult for women to learn about new ˜nancial 
+
+technologies.
+Despite these enablers, there still are many barriers to women™s use of mobile ˜nancial services, including gender norms, 
+
+low levels of digital literacy, lack of awareness of these products and their bene˜ts, and distrust of mobile ˜nancial 
+
+services. Another obstacle: The limitations of some mobile ˜nancial products, including the facts that some don™t offer an 
+
+interface for basic or feature phone, and that some apps are not available in local languages. Finally, the small number of 
+
+merchants that accept digital payments limits the incentives for workers to adopt these technologies. Here™s a closer look 
+
+at some of the greatest barriers:
+BARRIERS TO WOMEN™S USE OF MOBILE 
+
+FINANCIAL SERVICES
+Gender norms limit women™s use of mobile technology. 
+
+Usage of mobile phones was very basic among women 
+
+who participated in our study: Even those who had a 
+
+smartphone barely used it for things other than to make 
+
+calls. This could be explained by the same norms that 
+account for the gender gap in literacy
+42 and education 
+levels in India.
+43 Further research is needed to understand 
+how gender norms overlap with the ability of women to 
+
+use these technologies.
+44Gender norms that affect the intra-household 
+processes and bargaining.
+ Most women we interviewed 
+followed traditional Indian gender roles that posit women 
+
+administering the money (running errands and paying 
+
+bills) and men deciding how to spend it. Many women 
+
+interviewed, especially married women, told us they 
+
+tended to give their personal identi˜cation numbers 
+
+and ATM cards to their husbands or other male family 
+ﬁMy husband 
+manages 
+
+everything.
+ I manage the household. 
+I cook food and teach 
+
+my son. I pay other 
+
+bills, clear rents.ﬂ
+Rakesh Kumari,
+ Garment Worker, New Delhi.
+Financial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+16Lack of awareness and exposure lead many workers to be 
+afraid to conduct mobile transactions because they had 
+
+heard stories about unsuccessful transactions, missing 
+
+balances, and technical glitches. Vellangiri, a married 
+
+male garment worker in Tirupur said, ﬁA small mistake can 
+
+cause my money to be dropped into wrong accounts.ﬂ 
+
+This challenge speaks to the fact that mobile ˜nancial 
+
+services have not yet gained the credibility that traditional 
+
+banks have among the workers. ﬁ[Mobile wallets] are not 
+
+a bank,ﬂ said Azad, a single male garment worker from 
+
+Delhi/NCR who limits use of his mobile wallet to bus, 
+
+auto, and grocery expenses. ﬁBanks are an old traditional 
+
+institution, which our ancestors have been using for ages. 
+
+We cannot keep both in the same bracket.ﬂ
+Phone costs and features put services out of reach.
+   
+While smartphones increasingly are within reach on a 
+
+garment worker™s salary, women workers perceived 
+
+smartphones as being expensive. In addition, women 
+
+workers said they were concerned about the high costs 
+
+associated with using the phones. In India, 3G services 
+
+are expensive, and service providers focus mostly on 
+
+urban areas to maximize pro˜t potential, which explains 
+
+why workers in South India were less exposed to mobile 
+
+˜nancial services than people in Delhi/NCR.
+47 High costs 
+also are a barrier because many providers offer services 
+
+that require good network quality and coverageŠneither 
+
+of which is available in all parts of India.
+Most women working in garment factories struggle with 
+reading and writing and have poor knowledge of English. 
+
+Existing mobile money apps are not always available 
+
+in local languages. These apps are targeted to the 
+
+middle class and therefore not designed for users with 
+
+low literacy levels. Also, many mobile ˜nancial services 
+
+platforms are not available in basic or feature phones, 
+
+which bars women who don™t have smartphones from 
+
+using them.
+Workers lack awareness of mobile ˜nancial services 
+and they are afraid of using them.
+ Workers in North 
+
+India, particularly in the Delhi/NCR area, have a more 
+
+sophisticated understanding of mobile ˜nancial services, 
+
+regularly transferring funds from their bank to mobile 
+
+wallet apps. In South India, however, none of the workers 
+
+we interviewed reported making mobile payments. Use 
+
+of mobile ˜nancial services in the south was limited to 
+
+checking balances on banks™ mobile apps.
+In Bengaluru and Tamil Nadu, where most of the 
+workforce is female, very few workers had heard of apps 
+
+such as the Paytm walletŠthe largest mobile payments 
+platform in India (280 million users
+48 
+). In comparison, 
+Paytm had nearly universal name recognition among both 
+male and female garment workers in North India. (Until 
+
+recently, Paytm has been targeting the densely populated 
+
+area of Delhi/NCR).
+ﬁA small 
+mistake can 
+
+cause my 
+
+money to 
+
+be dropped 
+
+into wrong 
+
+accounts.ﬂ
+Vellangiri,
+A male married garment worker
+Tirupur.
+Financial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+17Most merchants still don™t accept digital payments.
+ Merchants for large expenses such as rent, school 
+
+fees, utilities, and groceries still don™t accept mobile 
+
+payments. In addition, migrant workers interviewed said 
+
+sending remittances to their home villages also would 
+
+be problematic, since the relatives receiving the money 
+
+don™t understand mobile payments. For these reasons, 
+
+workers saw limited value in using mobile ˜nancial 
+
+services for payments and remittances. However, a few 
+Azad Kumar,
+ Garment Worker, New Delhi.
+ﬁ[Mobile wallets] 
+
+are not a bank
+. Banks are an old traditional 
+
+institution, which our 
+
+ancestors have been using 
+
+for ages. We cannot keep 
+
+both in the same bracket.ﬂ
+workers were starting to purchase movie and train tickets 
+
+digitally and were receiving discounts for doing so. While 
+
+the ability to purchase goods and services digitally can 
+
+drive usage, the real value of mobile payments won™t be 
+
+signi˜cant enough to encourage wider adoption among 
+
+women workers until the larger transactions they make are 
+
+digitized.
+Financial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+18Despite current barriers to women™s use of mobile ˜nancial services, we believe these offerings provide more advantages 
+to women than traditional banks do. Currently, low-income women in India are underserved by traditional banks, which 
+˜nd it too expensive to acquire customers whose transactions and deposits are so small.
+49  
+This environment gives new 
+players in the mobile ˜nancial services market the potential to reach a large population of low-income customers if they 
+can create innovative products that are accessible, affordable, and cater to women™s speci˜c needs.
+In this section, we look at the mobile and digital ˜nancial services offered through India™s newly created Payments Banks, 
+with an emphasis on what has the potential to work among women workers and what does not.
+MOBILE FINANCIAL SERVICES THROUGH 
+
+A GENDER LENS
+SALARYCREDITEDAccountBalanceBillPaymentTransferFundsXEFFICIENCY
+SECURITY
+ACCESS
+INCLUSIVENESS
+Requires travel to ATM or bank branch
+Receive wages instantly and securely
+Cash out at ATMs or wide network
+of agents even in rural areas
+Ability to conduct self-service 
+transactions
+Safer, cheaper, faster to remit money
+Families in villages lack
+access to banking
+???X1000X00110ATMOUT OF ORDERTRADITIONAL BANKING
+MOBILE BANKING
+Long queues at ATMs and network 
+failures cause delays in cash out
+Still requires handling cash
+SENDFinancial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+19In addition to being inclusive and accessible, Payments 
+Banks make banking more ef˜cient and safer for women 
+
+workers. As described earlier in the report, time poverty 
+
+is one of the main challenges identi˜ed by the women we 
+
+interviewed. By using mobile options, women can save 
+
+valuable time since they don™t need to wait in line to make 
+
+or collect payments. These options also allow women to 
+
+conduct transactions without cash, which can reduce the 
+
+risk of theft or of con˜scation of funds by their husbands. 
+
+And because Payments Banks only offer simple products 
+
+that adhere to consumer protection requirements, they are 
+
+easier and safer to use, even for women with limited or no 
+
+˜nancial knowledge.
+Overview of products offered by Payments Banks
+  
+The Reserve Bank of India allows mobile network 
+operators and other associated companies to create 
+
+Payments Banks to offer simple products with limited risk 
+
+aimed for those with less or no prior exposure to ˜nancial 
+
+services. Payments Banks are allowed to offer the 
+
+following products (accessible from a mobile phone): 
+ »Mobile payments (including remittances, bill 
+
+payments, and payments to merchants)
+ »Current account with no minimum balance
+ »Savings account with a balance of up to INR 100,000 
+
+(around US$1,500) generating interest
+While Payments Banks can offer debit cards, they are 
+
+barred from offering credit directly. However, they can 
+
+cross-sell credit products such as loans, insurance, and 
+
+investment products on behalf of traditional banks and 
+
+insurance companies. In this next section, we examine 
+
+how the products offered by Payments Banks can be 
+
+adapted to the needs of low-income women.
+Mobile payments
+
+While digital payments can be made in many formsŠ
+including ATMs, point-of-sale terminals, and debit card 
+
+readersŠdigital payments that operate over a mobile 
+
+network offer the greatest potential to resolve the access 
+
+and use challenges women face, including time savings, 
+
+˚exibility, safety, and convenience. Most Payments 
+
+Banks offer a mobile wallet or mobile debit and checking 
+
+accounts that women can use to make payments or to 
+
+cash out.  
+Overview of Payments Banks 
+Payments BanksŠsmaller-scale banks that offer basic 
+banking servicesŠaccount for four speci˜c needs of low-
+
+income women in India: access, security, ef˜ciency, and 
+
+inclusiveness. By targeting a population of women that still 
+
+conducts almost all transactions in cash, and by making 
+
+services available through mobile, ATMs, branches, and 
+
+nearby agents, Payments Banks are making ˜nancial 
+
+services more inclusive and more accessible for women.
+
+In India, there are 18 ATMs and 13.4 bank branches for 
+
+every 100,000 adultsŠfar behind the global average of 43 
+ATMs per 100,000 adults.
+50 No matter how you look at this 
+data, it presents a challenge of access. Payments Banks 
+are addressing this challenge by making basic banking 
+
+products available through a network of ﬁbusiness 
+
+correspondents,ﬂ or agents based in underserved 
+
+communities. This model allows retail outlets, fuel stations, 
+
+and post of˜ces to double as a mini bank branches that 
+
+are likely to be located closer to worker™s homes and 
+
+workplaces than regular banks. Moreover, most of these 
+
+business correspondents operate well beyond normal 
+
+banking hours, which is particularly useful for women 
+
+workers who complained of the limited opening hours 
+
+of traditional bank branches. Business correspondents 
+
+help customersŠparticularly ˜rst-time users who might 
+
+be less comfortable with the productsŠopen accounts, 
+
+make deposits, send remittances, and withdraw cash. 
+
+Also, Payments Banks are developing networks of 
+
+merchants that have speci˜c contracts with companies˛to 
+
+accept these payment instruments. Customers can make 
+
+cashless payments at these identi˜ed merchants at no 
+
+charge by using mobile phones or debit cards provided by 
+
+the banks. Paytm, India™s current market leader in digital 
+
+payments, has around 5 million merchants accepting 
+
+cashless payments.
+Payments Banks have lowered the ﬁKnow Your Customerﬂ 
+requirements, which helps low-income women who lack 
+
+proper documentation. These companies are also creating 
+
+products that are easier for new users to understand 
+
+and that don™t necessarily require a smartphone. Paytm 
+
+Founder Vijay Shekhar Sharma said his company sees 
+
+the low-income population as a market opportunity. His 
+
+company has created a new business model that keeps 
+
+the operating costs low by using ﬁthe power of technology 
+
+and innovation at scaleﬂ with the goal of bringing ˜nancial 
+
+services to the ﬁhundreds of millions of un-served or 
+underserved Indians.ﬂ
+51Financial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+20Mobile payments have the potential to improve the livelihoods 
+of women workers. Women can use mobile payments to pay 
+
+bills, send remittances, receive government bene˜ts, or recharge 
+
+their phonesŠall without leaving their homes. They also have 
+
+the potential to achieve greater agency by learning to conduct 
+
+transactions from their phones instead of relying on male family 
+
+members. Finally, Payments Banks are adopting a ﬁmobile-
+
+˜rstﬂ strategy and incentivizing mobile use by waiving fees on 
+
+cashless purchases with merchants (using their mobile phones 
+
+or debit cards) while charging for cash withdrawals. This aims at 
+
+encouraging greater use of mobile payments and less reliance on 
+
+cash transactions. In addition, Payments Banks offer competitive 
+
+prices for remittances sent through their mobile platforms, 
+
+which might encourage adoption among women workers who 
+
+complained about the high fees charged by agents.
+
+ 
+Basic savings accounts 
+One of the key differentiators between Payments Banks and 
+mobile wallet companies is that Payments Banks allow customers 
+
+to hold deposits and receive interest on a savings account.˛To 
+
+encourage more low-income women to use formal accounts, 
+
+Payments Banks offer interest rates that are 2
+-4 percent higher 
+on savings than those offered by traditional banks. For instance, 
+
+while most traditional banks offer a 3.5-4 percent interest rate, 
+
+Airtel Payments Bank offers a 7.25 percent interest rate  on 
+savings.
+52˛This could be an incentive for women to start saving a 
+portion of their salaries in accounts offered by Payments Banks, 
+instead of saving money in traditional banks or using informal 
+
+methods to save (or, of course, not saving at all). In addition, 
+
+the savings accounts offered by Payments Banks don™t require 
+minimum balances,
+53 which makes them particularly accessible  
+to low-income women.
+Compared to informal savings methods, mobile ˜nancial services 
+allow women greater privacy from male family members who, as 
+
+revealed in our interviews, may appropriate the entire sum when 
+
+a woman returns home with her salary. In addition, since women 
+
+can access their savings accounts frequently and conveniently 
+
+from their phones to monitor expenses, manage their budgets, 
+
+and transfer money from their checking accounts, mobile ˜nancial 
+
+services could increase women™s likelihood to save.
+
+ 
+Other products
+Although Payments Banks cannot offer credit or insurance 
+directly, we believe the payments and savings options they do 
+
+afford on mobile will serve as ˜rst step for women to ﬁgraduateﬂ to 
+
+more advanced ˜nancial products. Along the way, utilizing mobile 
+
+˜nancial services should help women build the ˜nancial histories 
+
+they need to access products such as credit and insurance.
+Financial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+21An evaluation of India™s Mobile Payments Platforms
+In the following table we examine Mobile Payments Platforms by accessibility, 
+affordability, and ﬁappropriatenessﬂ: 
+Accessibility.
+ Products and services are considered accessible if there are easy 
+to obtain and to use. The number of physical access points and merchants that 
+
+accept payments, as well as the possibility to access products and services with 
+
+both smartphones and basic phonesŠand in local languagesŠwill determine if a 
+
+Mobile Payments Platform is considered accessible. 
+Affordability.
+ Fee structure needs to be affordable for a garment factory worker to 
+provide bene˜ts such as interest on savings and to be ˚exible with perks such as 
+
+no minimum balance requirement. Areas where fees can be reduced or eliminated 
+
+completely include cash withdrawals, savings, and remittances to name a few.
+Appropriateness.
+ Products and service offerings are considered ﬁappropriateﬂ if 
+they meet a speci˜c need of women.
+Physical access points can include the following: 
+
+Bank Branch: A retail location where a˜˚nancial services institution offers 
+customers a wide array of face-to-face and automated services.
+Business Correspondent: Third-party, non-bank retail agents engaged by 
+˚nancial services institutions to provide banking services at locations other 
+
+than a branch or ATM. 
+ATM: An automatic teller machine, or ATM, is a machine that dispenses cash 
+or performs other banking services after an account holder inserts a bank card 
+
+and inserts a personal identi˚cation number, or PIN. ATMs are often located in
+
+bank branches, but can also be located near a factory or in a city center.
+Financial Inclusion for Women
+ I Drivers, Barriers, and Opportunities I 
+22ACCESSIBILITY
+APPROPRIATENESS
+AFFORDABILITY
+CURRENT 
+PLATFORMS
+PHONE 
+REQUIREMENTS
+PHYSICAL
+ACCESS
+POINTS
+MERCHANTS 
+THAT ACCEPT 
+CASHLESS 
+PAYMENTS
+AVAILABLE 
+LANGUAGES
+SERVICES
+OFFERED
+( AVAILABLE
+ONLINE)
+SERVICES 
+THROUGH 
+BUSINESS 
+CORRESPONDENTS 
+NETWORK
+BANKING FEES 
+(NON-EXHAUSTIVE LIST)
+Airtel 
+Payments 
+
+Bank
+Basic phone 
+OR
+Smartphone
+500,000 Business
+
+Correspondents 
+2.3 million 
+
+merchants
+Smartphone 
+
+users:
+
+English
+
+and Hindi 
+Non smart
+-phone users: 
+12 languages
+- Savings Account 
+
+- Wallet
+
+- Debit Card 
+
+- Payments
+
+- Remittances
+
+- Personal Insurance
+
+- Credit (through 3rd party)
+
+- Funds (through 3rd party)
+- Account opening
+
+- Cash withdrawal
+
+  and deposits 
+
+- Remittances
+
+- Bill Payments
+- Withdrawal: 0.65% of 
+  withdrawal amount
+
+- Remittances: Free to Airtel 
+
+  Payments Bank accounts.   
+
+  For other banks, ˜xed-fee   
+
+  depending on amount. 
+
+- Interest on Savings: 7.25%
+BHIM
+(Bharat 
+
+Interface 
+
+for Money)
+Basic phone 
+OR
+Smartphone
+No access points 
+
+but can link app to 
+
+one of the 60 partner 
+
+banks and bene˜t 
+
+from the access 
+
+points of that bank.
+121 merchants     
+
+(including    
+
+e-commerce)
+13 
+
+languages
+- Payments
+
+- Remittances
+
+- Banking (through 3rd party)
+
+- Wallet (through 3rd party)
+
+- Insurance (through 3rd party)
+
+- Funds (through 3rd party)
+No business
+
+correspondent 
+
+network
+No fees to use BHIM app. 
+
+Bank linked to BHIM app can 
+
+charge fees for transactions 
+
+made through the app.
+Fino Pay
+-ment Bank
+No available 
+
+information
+- 422 Branches 
+
+- 25,000 
+
+  Business
+
+  Correspondents
+
+- 5000 Business
+
+  Correspondents     
+
+  at BPCL petrol   
+
+  outlets
+
+- 1000 micro 
+
+   ATMs
+25,000 
+
+merchants
+English
+
+and
+
+Hindi
+- Savings Account
+
+- Checkings Account
+
+- Wallet
+
+- Debit Card
+
+- Payments
+
+- Remittances
+
+- Insurance (through 3rd party)
+
+- Credit  (through 3rd party)
+
+- International Remittance    
+
+  (through 3rd party)
+- Account opening
+
+- Cash withdrawal    
+
+   and deposits
+
+- Remittances
+
+- Bill Payments
+
+- Recharges
+
+- Travel Bookings 
+- Interest on Savings: not yet   
+  announced but will be lower 
+
+  than 7%
+
+- Withdrawal : At ATM, up 
+
+  to 3 free withdrawals, then 
+
+  Rs. 20. At a branch, 2 free 
+
+  transactions per month; 
+
+  after that Rs.5 per 1000.
+
+  At an agent, 0.6% of  
+
+  transaction or minimum Rs 5.
+
+- Remittances : Free to Fino 
+
+  accounts, Rs.10 to other   
+
+  banks.
+India Post 
+Payments 
+
+Bank 
+
+(IPPB)
+No available 
+information
+- 650 Branches to   
+
+   be launched by
+
+   April 2018
+
+- 8 Business      
+
+  Correspondents 
+
+  (The target is for 
+
+  the 155,000  
+
+  post of˜ces 
+
+  to offer these 
+
+  services by April 
+
+  2018)
+
+- 978 ATMs
+No
+available 
+
+information
+No
+available 
+
+information
+Mobile app not yet available
+- Account opening 
+
+- Cash deposit and 
+
+   withdrawals 
+
+- Remittances 
+
+- Bill Payments
+
+- Recharges
+
+- Balance inquiry
+- Interest on Savings:  5.5% 
+- Withdrawals : Free in India 
+
+  Post and Punjab National 
+
+  Bank™s ATMs
+
+- Remittances: 2 free 
+
+  remittances per month
+Jio 
+Payments 
+
+Bank
+Smartphone
+Not yet
+launched
+Not available 
+
+because the 
+
+app has not 
+
+been launched 
+
+yet
+No
+available 
+
+information
+Not yet launched - full list of  
+
+products to be de˜ned
+Not yet launched
+ No available information
+Paytm 
+Payments 
+
+Bank
+Basic phone 
+OR
+Smartphone
+- 1 branch 
+
+- 100,000 Business 
+
+   Correspondents 
+
+   expected
+5 million 
+
+merchants
+English,
+
+and
+
+10 regional 
+
+languages
+- Savings Account 
+
+- Checkings Account
+
+- Wallet
+
+- Debit card 
+
+- Payments
+
+- Remittances
+
+- Insurance  (thorugh 3rd party) 
+
+- Credit (through 3rd party) 
+
+- Funds (through 3rd party)
+- Account opening 
+
+- Cash deposit and 
+
+   withdrawals
+
+- Cross-sell ˜nancial 
+
+   products 
+- Interest on Savings: 4%
+- Withdrawal : up to 3 free 
+
+   withdrawals in metro area/up 
+
+   to 5 in non-metro area; then 
+
+   Rs.20 per transaction
+
+- Remittances: Free to Paytm 
+
+  customers. 3% to other 
+
+  banks. Fees depend on each   
+
+  Business Correspondent   
+
+  terms. 
+AN EVALUATION OF INDIA™S 
+MOBILE PAYMENTS PLATFORMS
+RECOMMENDATIONS:
+This report has made the case that investments in mobile ˜nancial 
+services provide a compelling opportunity to expand ˜nancial inclusion 
+
+among women workers in India™s garment sector. Our research 
+
+indicates that mobile products are not only more convenient and safer 
+
+for women to adopt, but also can provide a point of entry for low-
+
+income women to start using a full range of quality ˜nancial services.
+Still, as we have outlined, barriers remain for women to access and 
+use mobile ˜nancial products and services.
+This section provides a set of recommendations tailored for 
+key stakeholders to help remove some of these barriers. These 
+
+stakeholders include mobile ˜nancial services providers, apparel 
+
+brands and their suppliers, donors, NGOs, and ˜nancial inclusion 
+
+experts. While government and regulators are crucial to the effort of 
+
+creating an enabling environment for mobile ˜nancial inclusion, they 
+
+were not part of the scope on this phase on the research. Our hope is 
+
+that the efforts toward ˜nancial inclusion will increase women™s agency 
+
+and improve the quality of life for low-income women across India. 
+Addressing Social and Gender Norms 
+It is important to understand and address the social and gender norms that contribute to current realities surrounding 
+women and ˜nancial services in India. 
+
+As noted in the previous section, many of these everyday facets of life stand in the way of women accessing and using 
+
+technology in general. Others limit women™s participation in household ˜nancial decision-making.
+Too often stakeholders take a gender-neutral approach to ˜nancial inclusionŠan approach that fails to acknowledge 
+women may face unique constraints. Any organization working to improve ˜nancial inclusion for women should strive to 
+
+understand where and how gender norms in˚uence digital ˜nancial inclusion and consider which approach addresses 
+
+these gender norms best. For some, this might mean acknowledging existing social norms and designing solutions to 
+
+work around them. For others, it might mean ˜ghting to change norms by engaging people in the community directly 
+through education and advocacy efforts.
+54Financial Inclusion for Women
+ I Recommendations I 
+25Through researching this paper we learned a lot about 
+the current state of the mobile ˜nancial services sector 
+
+in India, and were able to get ˜rst-person feedback 
+
+about how to overcome some of the barriers to ˜nancial 
+
+inclusion that women customers face today. Here are 
+
+some recommendations for ˜nancial services providers 
+
+based on that feedback.
+Digitize the payments women make most frequently. 
+In India, women still rely on cash because so many 
+
+merchants do not yet accept digital payments. To 
+
+increase women™s use of mobile, service providers 
+
+should focus on digitizing the payments for which women 
+
+tend to be most frequently responsible. These fees 
+
+can include (but in no way are limited to) school fees, 
+
+groceries, and utilities. If mobile payments are relevant for 
+
+female garment workers, they will have a clear incentive 
+
+to use them.
+Design products and services for women.
+ Service 
+providers should use a gender lens when designing 
+
+new products. In order to design products for women, 
+
+˜nancial services providers need to unpack these gender 
+
+norms and try to understand why they act as barriers to 
+access and use of ˜nancial products and services.
+55 In 
+addition, ˜nancial services providers must engage with 
+women directly to understand their needs, behaviors, 
+
+and preferences, and try to create value though products 
+
+that will solve their pain points. Finally, designing ˜nancial 
+
+products that meet women workers™ needs and address 
+
+speci˜c gender barriers to women™s empowerment 
+
+is a good business opportunity for ˜nancial services 
+
+providers to target the large untapped market of low 
+
+income women. 
+Invest in training, education, and awareness-building.
+ Our research revealed that female garment workers 
+
+lack awareness of mobile products, services, and 
+
+technologies, and don™t trust or feel comfortable using 
+
+them. To increase usage among low-income adults, 
+
+particularly women, service providers should invest in 
+
+education and awareness-building. Education efforts 
+
+can also help women become more active smartphone 
+
+users, opening up greater market opportunities for 
+
+mobile money providers. 
+RECOMMENDATIONS FOR MOBILE FINANCIAL 
+
+SERVICES PROVIDERS
+One of the most effective ways that garment workers 
+
+learn and adopt new technologies is through their peers 
+
+and coworkers. This is why ˜nancial service providers 
+
+should leverage women to train other women. One of the 
+
+ways to do this is to hire more female salespeople and 
+
+agents who can help educate and support women in 
+
+their use of mobile products. 
+Ensure privacy and security.
+ To encourage women to 
+use mobile ˜nancial services, providers should ensure 
+that women can access agent networks conveniently 
+
+and securely. Research suggests that women feel more 
+comfortable with female banking agents.
+56
+ In addition, 
+providers can take other steps to make women feel 
+more con˜dent, such as allowing women customers 
+
+to recharge airtime credit without revealing their phone 
+numbers to retailers, who are often men.
+57 Invest in the customer experience.
+ Many women 
+workers may be ˜rst-time users of mobile ˜nancial 
+
+services, which means they likely will have less advanced 
+
+˜nancial and technological skills. They also may have 
+
+lower levels of literacy and numeracy, and they may 
+
+distrust ˜nancial services. Providers should focus on 
+
+building women™s trust by offering products that are safe 
+
+and reliable by avoiding service downtime, inadequate 
+
+data protection, insuf˜cient agent liquidity, and by 
+
+ensuring terms and conditions are transparent. The 
+
+key is excellent customer support, because a negative 
+
+experience can set mobile ˜nancial services providers 
+
+back years in terms of customer acquisition.
+Financial Inclusion for Women
+ I Recommendations I 
+26Given the potential for increasing ˜nancial inclusion of women 
+through the garment sector, apparel brands and their suppliers 
+
+in India are key stakeholders in this evolution. Here are some 
+
+recommendations for apparel brands and their suppliers.
+Consider efforts beyond the digital payment of wages.
+  Digitizing wages makes business sense because it eliminates 
+
+the costs related to handling cash (e.g., hiring security and 
+
+administering cash payroll), increases safety for employers 
+
+and workers alike, and allows for greater transparency in wage 
+
+payments. In India, however, virtually all garment workers in 
+
+the formal sector now have access to basic bank accounts 
+
+through which they are receiving wages. While digitizing wages 
+
+is the ˜rst step toward ˜nancial inclusion, it is not the end goal. 
+
+The next steps for international apparel brands and the Indian 
+
+factories from which they source are to focus on driving use 
+
+and reducing the burden of cash, especially among women. 
+To tackle this issue, brands and factories should make sure 
+workers understand how to use their bank accounts, and 
+
+they should provide support if workers have trouble. A good 
+
+example: Factories can appoint staff to assist workers with 
+
+troubleshooting, address concerns, and collect feedback. 
+
+Given that many women workers are likely to be ˜rst-time 
+
+users, and given that they have lower levels of technical 
+
+experience and literacy, factories should include at least one 
+
+woman on their support teams to build trust with female 
+
+employees. 
+Use the workplace as a platform to advance ˜nancial 
+inclusion.
+ Given that garment factories convene large numbers 
+of women, brands and factories are uniquely positioned to 
+
+deliver ˜nancial education and awareness-raising programs. 
+
+These entities can also shape attitudes and behaviors toward 
+
+˜nancial services. Factories should invest in programs that 
+
+train workersŠparticularly womenŠon how to use traditional 
+
+bank accounts and mobile ˜nancial services, as well as other 
+
+˜nancial products and services. With these programs available 
+
+in the workplace, women who have limited free-time outside 
+
+of work will be able to participate. As a female garment worker 
+
+from Bengaluru told us: ﬁWe don™t know how to use a phone 
+
+[to pay bills], we work for six days a week, and we don™t have 
+
+time [to learn].ﬂ 
+Garment brands and factories can invite ˜nancial service 
+providers to come and answer workers™ questions, allay 
+
+concerns about using mobile products, and to provide 
+
+technical support. Factories can also run awareness
+
+campaigns to encourage more merchants to accept digital
+
+payments and to mobilize workers to ask for mobile payment
+
+options. In our experience implementing HERproject in 
+
+Bangladesh, when workers start asking merchants about 
+
+digital payments, more merchants offer this option.
+RECOMMENDATIONS FOR APPAREL BRANDS 
+
+AND THE FACTORIES THAT SUPPLY THEM
+Our research also has enabled us to piece together 
+recommendations for donors, NGOs, and ˜nancial 
+
+inclusion experts. 
+Invest in research on women™s use of mobile ˜nancial 
+services and the associated gender gap.
+ We already 
+
+know Indian women are lagging behind Indian men in 
+
+their use of formal ˜nancial services, especially those 
+
+delivered through digital channels. According to the 
+
+World Bank™s Global Findex, while account penetration 
+
+in India increased to 53 percent in 2014 from 35 percent 
+
+in 2011, the ˜nancial inclusion gender gap increased as 
+
+well, to 20 percent from 17 percent during that same 
+
+time. Given that much of that increase was driven by 
+
+mobile technology, mobile ˜nancial services actually 
+
+widened the divide between men and women in India 
+
+because the efforts to push for a ﬁDigital Indiaﬂ have 
+been gender-neutral.
+58  To overcome the barriers inhibiting women from using 
+mobile ˜nancial products and services, we need to 
+
+understand what the challenges really are. Donors and 
+RECOMMENDATIONS FOR DONORS, NGOs, 
+
+AND FINANCIAL INCLUSION EXPERTS
+experts can invest in research on the gender and social 
+
+norms preventing Indian women from participating 
+
+in the formal ˜nancial system fully. More information 
+
+about how social norms affect attitudes and behaviors 
+
+of women will help the ˜nancial inclusion community 
+
+develop effective strategies, products, and services that 
+
+account for these limitations. Also, this research needs 
+
+to include an understanding of the unintended negative 
+
+consequences that mobile ˜nancial inclusion might have 
+
+on women. 
+Coordinate stakeholders to drive a holistic approach 
+to the ˜nancial inclusion of women.
+ Donors and 
+
+experts can help align interests and approaches by 
+
+buyers, suppliers, service providers, policymakers, 
+
+and regulators. Doing so will help the ˜nancial 
+
+inclusion community collaborate to ensure systems are 
+
+established so more women use digital products and 
+
+services actively. Coordination among all stakeholders 
+
+could help governments deliver more bene˜ts via digital 
+
+transfers, and could encourage more merchants to 
+
+accept digital payments.  
+In addition to the recommendations in the preceding section, our 
+research has implications for BSR™s HER˜nance initiative. In this 
+
+section, we examine the opportunities for HER˜nance to address 
+
+the challenges Indian women workers face in using ˜nancial 
+
+services, and similar challenges women workers face in other 
+
+countries around the world.
+Considering this was our ˜rst foray into the subject of ˜nancial 
+services, we took a narrow focus in our research, using a qualitative 
+
+approach including interviews and focus groups to look at women in 
+
+India™s garment factories. In the future, we plan to pursue additional 
+
+research to build on this foundation. In particular, we will look at 
+
+how mobile ˜nancial services could be introduced to garment 
+
+workers through their employers, what support would be necessary 
+
+to increase use, how existing products and services could be 
+
+enhanced to meet the needs of women workers, and more. 
+
+Subsequent research projects also will take into account existing 
+
+social norms, and how new programs could support women™s 
+
+˜nancial autonomy and agency.
+IMPLICATIONS OF RESEARCH 
+
+FOR HERFINANCE
+Financial Inclusion for Women
+ I Implications of HER˜nance I 
+29Informed by the ˜ndings of that research, 
+BSR will work with 
+garment brands and factories, mobile ˜nancial services 
+
+providers, and local NGOs to introduce garment workers to 
+
+mobile ˜nancial services. We will also strive to drive use among 
+
+women through supporting activities such as training and the 
+
+development of a network of merchants and agents. 
+BSR plans 
+
+to support these efforts by piloting programs inside factories with 
+
+one or more Payments Banks. In addition, based on the results 
+
+of our research, we could assess the extent to which products 
+
+and services Payments Banks offer currently are aligned with 
+
+women™s needs. We could even investigate whether we need to 
+
+collaborate to redesign them.
+More speci˜cally, we plan to:
+1. Explore a formal partnership with one or more Payments 
+Banks that are willing to pilot their products and services 
+
+with garment workers. These providers must be willing to 
+
+respond to the ˜ndings and recommendations that come 
+
+from quantitative and qualitative research. They also must 
+
+agree to assist the HERproject team work to more concretely 
+
+de˜ne the needs of garment workers.
+2.
+ Collaborate with one or more buyers to select ˜ve factories 
+
+in the Delhi/NCR area for a feasibility pilot. We chose to 
+
+conduct the pilot in Delhi/NCR since this is where there 
+
+are the most merchants who accept mobile payments, 
+
+and where workers have the highest awareness of such 
+
+products. Although the majority of the garment workforce in 
+
+this area is male, we will ensure that all research and testing 
+
+is conducted with an equal number of male and female 
+
+participants, so we can draw out gender speci˜c lessons to 
+
+be applied in other markets.
+3.
+ Open Payments Banks accounts for garment workers. While 
+
+their salaries will not be deposited into these accounts, we 
+
+will provide them with training using the HERproject peer-
+
+education methodology to raise awareness and drive usage.
+4. Team up with Payments Banks to build use cases for 
+
+garment workers. This could involve digitization of key 
+
+payment streams normally managed by women, targeting 
+
+merchant outreach in garment communities around the 
+
+pilot factories and developing complementary products and 
+
+services such as insurance or small loans.
+5. Measure the uptake of mobile payments among garment 
+
+workers and merchants, as well as the impact this has on 
+
+women™s use of other formal ˜nancial services. We also will 
+
+measure women™s perceptions and preferences in their use 
+
+of mobile payments versus cash to test our hypothesis that 
+
+mobile payments will create value for women.
+Our hope is that this phase of research and piloting will reveal 
+
+persistent barriers so we can address them and overcome 
+
+them. We plan to publish these ˜ndings to share our lessons and 
+
+recommendations with the wider ˜nancial inclusion community.
+Financial Inclusion for Women
+ I Appendix I 
+30Methodology
+The recommendations in this report stem from desk-based review of industry trends and government policies, as 
+well as qualitative interviews and focus groups discussions. Here is an overview of the interviews we conducted.
+ »Interviews and focus group discussions with 59 garment workers from ˜ve garment factories located in 
+
+three hubs of garment manufacturing in India: Two factories in the Delhi/National Capital Region (NCR); 
+
+one in Bengaluru, in the state of Karnataka; and two others in the Tirupur/Coimbatore area in Tamil Nadu.
+ »Interviews with 15 factory managers.
+ »Interviews with ˜ve merchants in garment communities surrounding the garment factories.
+ »Interviews with seven ˜nancial service providers, largely (though not exclusively) those that were granted 
+
+licenses to operate Payments Banks.
+ »Interviews with seven subject matter experts in the areas of ˜nancial inclusion and mobile ˜nancial 
+
+services in India.
+Appendix
+ABOUT THIS RESEARCH
+GLOSSARY
+Aadhaar
+ Œ A universal identity infrastructure issued by the Unique Identi˜cation Authority of India (UIDAI), which consists of 
+an individual number linked to the biometric data (˜ngerprints, iris images, and photos) of each Indian citizen.
+59Access Points Œ Can refer to the business correspondents, bank branches, and ATMs that allow for customers to conduct 
+˜nancial transactions.
+Agents
+ Œ  Any third-party acting on behalf of a bank, ˜nancial institution, or non-bank institution (including a Mobile Money 
+issuer or other payment services provider) to deal directly with customers under contractual agreement.
+60Business Correspondents
+ Œ Retail agents engaged by banks for providing banking services at locations other than a bank 
+branch or ATM.
+61Cash Out
+ Œ The process of converting electronic value or e-money for cash.
+Demonetization
+ Œ On November 8, 2016, the government of India announced that high-denomination Rupee bills would 
+be left out of circulation. The purposes of this action were to control the shadow economy and halt use of counterfeit 
+currencies to promote terrorist activities.
+DFS (Digital Financial Services)
+ Œ DFS refer to ˜nancial services (including payments, credit, savings, remittances, and 
+insurance) that can be accessed and delivered through digital channels. The term ﬁdigital channelsﬂ refers to the internet, 
+mobile phones (both smartphones and digital-feature phones), ATMs, POS terminals, electronically enabled cards, and 
+biometric devices, among others.
+62
+Know Your Customer
+ Œ The process of a bank or of a business to verify the identity of its client.
+Financial Inclusion for Women
+ I Appendix I 
+31Mobile Banking - The use of a mobile phone to access banking services and execute ˜nancial transactions. This 
+covers both transactional services such as transferring funds, and non-transactional services such as viewing ˜nancial 
+information on a mobile phone.
+63MFS (Mobile Financial Services
+) Œ The broad range of ˜nancial services (including payments, credit, savings, remittances, 
+and insurance) that can be accessed and delivered through a mobile phone or a tablet. Within DFS, we can ˜nd mobile 
+˜nancial services (MFS) that usually employ agents and the networks of other third-party intermediaries to improve 
+accessibility and lower the overall service delivery cost.
+64Mobile Money
+ Œ A term describing the services that allow electronic money transactions over a mobile phone.
+Mobile Network Operators Œ
+ A company that has a government-issued license to provide telecommunications services 
+through mobile devices. Due to their experience with high-volume, low-value transactions and large networks of airtime 
+
+distributors, mobile network operators have been critical players in digital ˜nancial services.
+65Mobile Payment
+ Œ Payments where the complete transaction of sending and receiving money is carried out using a mobile 
+phone or a tablet.
+Mobile Wallet
+ Œ A payment service through which businesses and individuals can receive and send money via mobile 
+devices such as a mobile phone. 
+
+Payments Banks 
+Œ Branchless institutions that provide basic banking services through a combination of digital channels 
+and a network of business correspondents, or agents, who extend the bank services to communities and homes. These 
+
+banks are primarily intended to reach low-income, underserved customers and cannot offer credit.
+Point of Sale
+ Œ A software or electronic device used for the purpose of processing card payments at retail locations by 
+reading information from a customer™s credit or debit card. 
+Pradhan Mantri Jan Dhan Yojana (PMJDY
+) Œ A program launched by the Indian government to bring formal ˜nancial 
+services to all households in the country.
+Financial Inclusion for Women
+ I Appendix I 
+32References
+1.  http://documents.worldbank.org/curated/en/187761468179367706/The-Global-Findex-Database-2014-measuring-˜nancial-inclusion-around-the-
+world. Accessed December, 2017. 
+2. Ibid.3. Ibid. 4. Ibid. 5. https://siteresources.worldbank.org/INTFINFORALL/Resources/4099583-1194373512632/FFA_book.pdf. Accessed January 2018. 
+6. http://www.un.org/sustainabledevelopment/sustainable-development-goals. Accessed September 15, 2017. 
+7. http://www.fao.org/news/story/en/item/460267/icode. Accessed January 11, 2018. 
+8. http://˜nclusion.org/uploads/˜le/reports/InterMedia%20FII%20Gender%20Report.pdf. Accessed December 2017. 
+9. https://www.omidyar.com/sites/default/˜les/˜le_archive/Pdfs/16-09-29_Infographic_India_Gender_Gap_FINAL.pdf. Accessed December 2017. 
+10. Ibid. 11. http://˜nclusion.org/uploads/˜le/reports/2015%20InterMedia%20FII%20INDIA%20QuickSights%20Summary%20Report.pdf. Accessed Jun 2017. 
+12. https://www.omidyar.com/sites/default/˜les/˜le_archive/Pdfs/16-09-29_Infographic_India_Gender_Gap_FINAL.pdf. Accessed December 2017. 
+13. https://pmjdy.gov.in/account. Accessed December 2017. 
+14. https://timeso˜ndia.indiatimes.com/business/india-business/Jan-Dhan-covers-99-7-households/articleshow/45960195.cms. Accessed January 11, 
+2018. 15. Receiving deposit up to INR `100,000, issuing ATM cards, facilitating payments and remittances, internet banking. 
+16. ﬁShort-changed.ﬂ˛The Economist, November 26, 2016. www.economist.com/news/˜nance-and-economics/21710838-crackdown-indias-black-
+
+economy-makes-life-harder-everyone-india-grapples. 
+17. http://˜nclusion.org/uploads/˜le/reports/2015%20InterMedia%20FII%20INDIA%20QuickSights%20Summary%20Report.pdf. Accessed June 2017. 
+18. Ibid. 19. Jaleel, Tania and  Devansh Sharma. 2017. ﬁA year after note ban, cashless economy is still a distant dreamﬂ, The Economic Times. November, 7, 
+
+2017. https://economictimes.indiatimes.com/wealth/spend/a-year-after-note-ban-cashless-economy-is-still-a-distant-dream/articleshow/61541013.
+
+cms. 20. https://www.womensworldbanking.org/wp -content/uploads/2017/07/India_Women_Digital_Financial_Services2017_WomensWorldBanking.pdf. 
+
+Accessed January 2018. 21. (Jaleel and Sharma, 2017). 22. https://docs.gatesfoundation.org/documents/g20%20report_˜nal.pdf. Accessed January 2018. 
+23. www.gsmaintelligence.com/research/?˜le=134a1688cdaf49cfc73432e2f52b2dbe&download. Accessed May 4, 2017. 
+24. http://www.gsmaintelligence.com/research/?˜le=134a1688cdaf49cfc73432e2f52b2dbe&download. Accessed May 4, 2017. 
+25. Ibid. 26. http://www.livemint.com/Industry/FKUxmYNwlF6bfwIGumMuVJ/India-Post-Payments-Bank-will-keep-operations-simple-CEO-As.html. Accessed 
+
+May 4, 2017. 27. http://www.gsmaintelligence.com/research/?˜le=134a1688cdaf49cfc73432e2f52b2dbe&download. Accessed May 4, 2017. 
+28. http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2016/02/Connected-Women-Gender-Gap.pdf. Accessed May 4, 2017. 
+29. http://pmjdy.gov.in/trend-zero. Accessed December 5, 2017. 
+30. http://b2bimages.iimg.in/˜les/retail_˜les/reports/data_˜le-China-dominates-the-global-Textile-Apparel-exports-with-40-share-1434619354.pdf . 
+
+Accessed January, 2018. 
+31. Ibid. 32. http://b2bimages.iimg.in/˜les/retail_˜les/reports/data_˜le-China-dominates-the-global-Textile-Apparel-exports-with-40-share-1434619354.pdf . 
+
+Accessed January, 2018. 
+33. http://www.ilo.org/wcmsp5/groups/public/@ed_norm/@declaration/documents/publication/wcms_379775.pdf. Accessed May 5, 2017. 
+34. https://cleanclothes.org/resources/publications/factsheets/india-factsheet-february-2015.pdf. Accessed March 30, 2017. 
+35. Formal employment generally refers to employment that is recognized by the government and therefore taxed and regulated and makes employees 
+
+eligible for public bene˜ts. 36. https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2016/02/Connected-Women-Gender-Gap.pdf. Accessed January 2018. 
+37. http://stats.oecd.org/index.aspx?queryid=54757#. OECD.38. http://scholar.harvard.edu/˜les/rpande/˜les/on_her_account.can_strengthening_womens_˜nancial_control_boost_female_labor_supply.pdf. 
+
+Accessed in February, 2018.
+39. https://docs.gatesfoundation.org/documents/g20%20report_˜nal.pdf. Accessed January 2018.
+40. Breza, Emily, Martin Kanz, and Leora Klapper (2017), The Real Effects of Electronic Wage Payments. (Upcoming).
+41. http://˜nclusion.org/uploads/˜le/reports/InterMedia%20FII%20Wave%203%202015%20India.pdf. Accessed May 4, 2017.
+42. https://www.census2011.co.in/literacy.php. Accessed February, 2018.
+43. https://ora.ox.ac.uk/objects/uuid:1167e5bc-573b-44d8-a94f-b9b9aaea32c8. Accessed February, 2018.
+44. https://www.icrw.org/wp-content/uploads/2017/11/Gender-and-digital-˜nancial-inclusion.pdf. Accessed January, 2018.
+45. Women™s World Banking, ﬁResearch Report: Financial Education Needs Assessment of Factory Employees in India,ﬂ prepared for BSR, April 2013.
+46. https://www.icrw.org/wp-content/uploads/2017/11/Gender-and-digital-˜nancial-inclusion.pdf. Accessed January, 2018.
+47. https://www.gp˜.org/sites/default/˜les/documents/03-Digital%20Financial%20Solution%20to%20Advance%20Women....pdf. Accessed November 
+
+2017.48. https://blog.paytm.com/looking-back-at-2017-top-10-interesting-facts-from-paytm-7bc59e08683f. Accessed February 2018.
+Financial Inclusion for Women
+ I Appendix I 
+3349. http://www.slideshare.net/ProductNation/indian-banking-in-a-time-for-change-nandan-nilekani-64679460. Accessed May 5, 2017.
+50. Anand, Nupur. 2017. ﬁIndia has a new bank designed speci˜cally for Indians afraid of banksﬂ, Quartz. July 11, 2017. https://qz.com/1021591/˜no-
+paytech-india-has-a-new-payments-bank-designed-speci˜cally-for-indians-afraid-of-banks/
+51. ﬁPaytm gets ˜nal nod from RBI to launch payments bank,ﬂ Hindustan Times, updated January 4, 2017. Accessed May 5, 2017. http://www.
+
+hindustantimes.com/business-news/paytm-gets-˜nal-nod-from-rbi-to-launch-paytm-payments-bank/story-mwbotX9ZhjzJMZg7gWvNmL.html. 
+
+Accessed May 5, 2017.52. http://www.livemint.com/Industry/bvQa9dbOiZxQA6DBXNazoJ/How-does-India-Post-Payments-Bank-stack-up-against-Airtel-Pa.html. Accessed 
+
+May 5, 2017˛?53. http://www.rbi.org.in/Scripts/FAQView.aspx?Id=96. Accessed January 2016.
+54. http://www.cgap.org/sites/default/˜les/Brief-Social-Norms-Change-for-Womens-Financial-Inclusion-Jul-2017_0.pdf. Accessed January 2018.
+55. https://www.icrw.org/wp-content/uploads/2017/11/Gender-and-digital-˜nancial-inclusion.pdf. Accessed January 2018.
+56. http://www.cgap.org/blog/why-women-self-help-group-members-make-good-bank-agents. Accessed January 2018.
+57. http://www.˜nancialexpress.com/industry/technology/vodafone-launches-sakhi-pack-for-women-now-recharge-without-revealing-mobile-
+
+number/763330. Accessed January 2018.58. https://www.womensworldbanking.org/news/blog/what-you-need-to-know-about-women-in-india-to-serve-them-with-digital-˜nancial-services. 
+
+Accessed January 2018.59. UIDAI public data available on www.uidai.in.gov
+60. http://www.a˜-global.org/sites/default/˜les/publications/2016-08/Guideline%20Note-19%20DFS-Terminology.pdf. Accessed May 5, 2017.
+61. https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=2234.
+62. http://www.a˜-global.org/sites/default/˜les/publications/2016-08/Guideline%20Note-19%20DFS-Terminology.pdf. Accessed May 5, 2017.
+63. Ibid.64. Ibid.65. Ibid.BSR™s HERproject is a collaborative 
+initiative that strives to empower  
+
+low-income women working in 
+
+global supply chains. Bringing 
+
+together global brands, their 
+
+suppliers, and local NGOs, 
+
+HERproject drives impact for women 
+
+and business via workplace-based 
+
+interventions on health, ˜nancial 
+
+inclusion, and gender equality. Since 
+
+its inception in 2007, HERproject 
+
+has worked in more than 700 
+
+workplaces across 14 countries, 
+
+and has increased the well-being, 
+
+con˜dence, and economic potential 
+
+of more than 800,000 women.
+Learn more at www.herproject.org.

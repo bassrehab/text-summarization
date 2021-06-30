@@ -1,0 +1,12 @@
+.cache/*
+.config/*
+.docker/*
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+.ipython/*
+.jupyter/*
+.keras/*
+.local/*
+.viminfo/*
+nltk_data/*
+src/*
